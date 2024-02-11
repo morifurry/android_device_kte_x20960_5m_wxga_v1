@@ -9,6 +9,6 @@ PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/omni_x20960_5m_wxga_v1.mk
 
 COMMON_LUNCH_CHOICES := \
-    omni_x20960-user \
-    omni_x20960-userdebug \
-    omni_x20960-eng
+    omni_x20960_5m_wxga_v1-user \
+    omni_x20960_5m_wxga_v1-userdebug \
+    omni_x20960_5m_wxga_v1-eng
