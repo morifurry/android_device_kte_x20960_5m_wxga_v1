@@ -24,6 +24,7 @@ PRODUCT_MANUFACTURER := kte
 PRODUCT_GMS_CLIENTID_BASE := android-kte
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
-    PRIVATE_BUILD_DESC="nikel-user 6.0 MRA58K V10.2.1.0.MBFMIXM release-keys"
+    PRIVATE_BUILD_DESC= "full_x20960_5m_wxga_v1-user 7.1.1 NMF26O 1634265030 release-keys"
 
-BUILD_FINGERPRINT := Xiaomi/nikel/nikel:6.0/MRA58K/V10.2.1.0.MBFMIXM:user/test-keys
+BUILD_FINGERPRINT := ABAO/x20960_5m_wxga_v1:7.1.1/NMF26O/1634265030:user/release-keys
+
