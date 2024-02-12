@@ -26,4 +26,4 @@ PRODUCT_GMS_CLIENTID_BASE := android-kte
 PRODUCT_BUILD_PROP_OVERRIDES += \
     PRIVATE_BUILD_DESC= "full_x20960_5m_wxga_v1-user 7.1.1 NMF26O release-keys"
 
-BUILD_FINGERPRINT := ABAO/x20960_5m_wxga_v1:7.1.1/NMF26O:user/release-keys
+BUILD_FINGERPRINT := ABAO/x20960_5m_wxga_v1:7.1.1/NMF26O/1634265030:user/release-keys
