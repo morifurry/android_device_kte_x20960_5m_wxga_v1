@@ -87,13 +87,16 @@ TW_USE_TOOLBOX := true
 # SHRP Configuration
 SHRP_PATH := device/kte/x20960_5m_wxga_v1
 SHRP_DEVICE_CODE := x20960_5m_wxga_v1
-SHRP_MAINTAINER := kte_x20960_5m_wxga_v1
+SHRP_MAINTAINER := morry
 SHRP_EDL_MODE := 0
 SHRP_INTERNAL := /sdcard
 SHRP_EXTERNAL := /external_sd
 SHRP_OTG := /usb_otg
 SHRP_REC_TYPE := A_Only
 SHRP_FLASH := 0
-SHRP_REC := /dev/block/platform/soc/xxxxxxxxxxxxxx/by-name/recovery
+SHRP_REC := /dev/block/platform/mtk-msdc.0/11230000.msdc0/by-name/recovery
 SHRP_REC_TYPE := SAR
+SHRP_AB := false
+SHRP_EXPRESS := true
+SHRP_NO_SAR_AUTOMOUNT := true
 
